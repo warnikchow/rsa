@@ -1,5 +1,5 @@
 # RSA
-Revisiting Speech Act - A Slow Study
+**Revisiting Speech Act - A Slow Study**
 
 ## 참여자
 원익, 지윤, 영숙
