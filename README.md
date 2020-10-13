@@ -34,7 +34,7 @@
 
 ### 3회차 (지윤 pick)
 
-- [Draft of DAMSL: Dialog Act Markup in Several Layers](https://www.cs.rochester.edu/research/cisd/resources/damsl/RevisedManual/)
+
 
 - [WS-97 Switchboard DAMSL Coders Manual](https://web.stanford.edu/~jurafsky/ws97/manual.august1.html)
 
@@ -47,4 +47,8 @@
 - Bunt et al. [DIT++ 공식 페이지](https://dit.uvt.nl/#dit_publications)
 
 - [Lowe, R., Pow, N., Serban, I., & Pineau, J. (2015). The ubuntu dialogue corpus: A large dataset for research in unstructured multi-turn dialogue systems. arXiv preprint arXiv:1506.08909.](https://arxiv.org/pdf/1506.08909.pdf)
+
+
+###7회차 (예상)
+- [Draft of DAMSL: Dialog Act Markup in Several Layers](https://www.cs.rochester.edu/research/cisd/resources/damsl/RevisedManual/)
 
