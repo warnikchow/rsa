@@ -34,13 +34,20 @@
 
 ### 3회차 (지윤 pick)
 
+-Towards Universal Dialogue Act Tagging for Task-Oriented Dialogues
+Shachi Paul, Rahul Goel, Dilek Hakkani-Tür
 
+Dialogue-based computer systems typically classify utterances by “dialogue act” — such as requesting, informing, and denying — as a way of gauging progress toward a conversational goal. As a first step in developing a system that will automatically label dialogue acts in human-human conversations (to, in turn, train a dialogue-act classifier), the researchers create a “universal tagging scheme” for dialogue acts. They use this scheme to reconcile the disparate tags used in different data sets.
+
+https://arxiv.org/pdf/1907.03020.pdf
+
+
+
+### 4회차 (지윤 pick)
 
 - [WS-97 Switchboard DAMSL Coders Manual](https://web.stanford.edu/~jurafsky/ws97/manual.august1.html)
 
 - [Stolcke, Andreas; Ries, Klaus; Coccaro, Noah; Shriberg, Elizabeth; Bates, Rebecca; Jurafsky, Daniel; Taylor, Paul; Martin, Rachel; et al. (2000), "Dialogue Act Modeling for Automatic Tagging and Recognition of Conversational Speech" , Computational Linguistics, 26 (3): 339, doi:10.1162/089120100561737](https://web.stanford.edu/~jurafsky/ws97/CL-dialog.pdf)
-
-### 4회차 (지윤 pick)
 
 - [Bunt, H., Alexandersson, J., Carletta, J., Choe, J. W., Fang, A. C., Hasida, K., ... & Soria, C. (2010, May). Towards an ISO standard for dialogue act annotation.](https://publications.idiap.ch/downloads/papers/2010/Bunt_LREC2010_2010.pdf)
 
