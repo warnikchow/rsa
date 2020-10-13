@@ -42,6 +42,13 @@ Dialogue-based computer systems typically classify utterances by “dialogue act
 https://arxiv.org/pdf/1907.03020.pdf
 
 
+- The CommitmentBank:
+Investigating projection in naturally occurring discourse
+Marie-Catherine de MARNEFFE, Mandy SIMONS, Judith TONHAUSER
+
+https://github.com/mcdm/CommitmentBank/blob/master/CommitmentBank.pdf
+
+
 
 ### 4회차 (지윤 pick)
 
