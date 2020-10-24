@@ -2,7 +2,7 @@
 **Revisiting Speech Act - A Slow Study**
 
 ## 참여자
-원익, 지윤, 영숙
+조원익, 한지윤, 송영숙, 박혜진
 
 ## 내용
 - 화행 이론, 대화 화행 구축
@@ -13,12 +13,15 @@
 
 - 강도: 2주에 페이퍼 약 2개
 
-- 태스크: 대충 본다 + 얘기할 거 세 꼭지씩
+- 태스크: 대충 본다 + 얘기할 거 두 꼭지씩
+
 
 ## 토픽
 화행기본 / 화행최근이론 / 대화화행 / open domain 대화화행 / ToD 대화화행 / 대화화행과 담화분석 / 대화매니징에서 대화화행 / 음성대화시스템과 대화화행
 
 ----------------------------------------------------------
+
+
 
 ### 1회차 (원익 pick)
 
@@ -34,7 +37,7 @@
 
 ### 3회차 (지윤 pick)
 
--Towards Universal Dialogue Act Tagging for Task-Oriented Dialogues
+- Towards Universal Dialogue Act Tagging for Task-Oriented Dialogues
 Shachi Paul, Rahul Goel, Dilek Hakkani-Tür
 
 Dialogue-based computer systems typically classify utterances by “dialogue act” — such as requesting, informing, and denying — as a way of gauging progress toward a conversational goal. As a first step in developing a system that will automatically label dialogue acts in human-human conversations (to, in turn, train a dialogue-act classifier), the researchers create a “universal tagging scheme” for dialogue acts. They use this scheme to reconcile the disparate tags used in different data sets.
