@@ -23,11 +23,11 @@
 
 
 
-### 1회차 (원익 pick)
+## 1회차 (원익 pick)
 
 - Zalta, Edward N., et al. "Stanford encyclopedia of philosophy." Palo Alto CA: Stanford University (2005). - [Speech Acts (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/speech-acts/)
 
-### 2회차 (원익 pick)
+## 2회차 (원익 pick)
 
 - Bayat, Nihat. "A study on the use of speech acts." Procedia-social and behavioral sciences 70 (2013): 213-221.
 
@@ -35,7 +35,8 @@
 
 [논문 링크](https://www.dropbox.com/sh/0yxnho4nrriqvhg/AAA4YMXRPKvwa7qNmPc4Mja4a?dl=0)
 
-### 3회차 (지윤 pick)
+## 3회차 (지윤 pick)
+
 
 - Towards Universal Dialogue Act Tagging for Task-Oriented Dialogues
 Shachi Paul, Rahul Goel, Dilek Hakkani-Tür
@@ -45,11 +46,23 @@ Dialogue-based computer systems typically classify utterances by “dialogue act
 https://arxiv.org/pdf/1907.03020.pdf
 
 
+### 송영숙
 - The CommitmentBank:
 Investigating projection in naturally occurring discourse
 Marie-Catherine de MARNEFFE, Mandy SIMONS, Judith TONHAUSER
 
-https://github.com/mcdm/CommitmentBank/blob/master/CommitmentBank.pdf
+[논문 링크(https://github.com/mcdm/CommitmentBank/blob/master/CommitmentBank.pdf
+)
+
+### 박혜진
+
+- [Taxonomy of Illocutionary Acts](http://scholar.google.co.kr/scholar_url?url=https://conservancy.umn.edu/bitstream/handle/11299/185220/7-08_Searle.pdf%3Fsequence%3D1&hl=ko&sa=X&ei=DoqXX8fYM9e2yATVyLzADw&scisig=AAGBfm3ujsjGFPuzxw3-1Zs3syl-9X7gpw&nossl=1&oi=scholarr
+
+- [How to Do Things with Words Lecture 12 책 링크](https://books.google.co.kr/books?id=XnRkQSTUpmgC&pg=PA83&hl=ko&source=gbs_toc_r&cad=4#v=onepage&q&f=false)   
+- 비공개 부분 발제
+- [강의 링크](https://www.youtube.com/watch?v=FMZ6yrVUUqo)
+
+- [발제지 링크](https://drive.google.com/drive/folders/1uRgFijLcfrTK49EzJSQaUGhSHfOhn8ix?usp=sharing)
 
 
 
