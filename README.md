@@ -66,6 +66,6 @@ https://github.com/mcdm/CommitmentBank/blob/master/CommitmentBank.pdf
 - [Lowe, R., Pow, N., Serban, I., & Pineau, J. (2015). The ubuntu dialogue corpus: A large dataset for research in unstructured multi-turn dialogue systems. arXiv preprint arXiv:1506.08909.](https://arxiv.org/pdf/1506.08909.pdf)
 
 
-###7회차 (예상)
+### 7회차 (예상)
 - [Draft of DAMSL: Dialog Act Markup in Several Layers](https://www.cs.rochester.edu/research/cisd/resources/damsl/RevisedManual/)
 
