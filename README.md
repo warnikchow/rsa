@@ -51,18 +51,17 @@ https://arxiv.org/pdf/1907.03020.pdf
 Investigating projection in naturally occurring discourse
 Marie-Catherine de MARNEFFE, Mandy SIMONS, Judith TONHAUSER
 
-[논문 링크(https://github.com/mcdm/CommitmentBank/blob/master/CommitmentBank.pdf
-)
+[논문 링크](https://github.com/mcdm/CommitmentBank/blob/master/CommitmentBank.pdf)                  
 
 ### 박혜진
 
-- [Taxonomy of Illocutionary Acts](http://scholar.google.co.kr/scholar_url?url=https://conservancy.umn.edu/bitstream/handle/11299/185220/7-08_Searle.pdf%3Fsequence%3D1&hl=ko&sa=X&ei=DoqXX8fYM9e2yATVyLzADw&scisig=AAGBfm3ujsjGFPuzxw3-1Zs3syl-9X7gpw&nossl=1&oi=scholarr
+- [Taxonomy of Illocutionary Acts](http://scholar.google.co.kr/scholar_url?url=https://conservancy.umn.edu/bitstream/handle/11299/185220/7-08_Searle.pdf%3Fsequence%3D1&hl=ko&sa=X&ei=DoqXX8fYM9e2yATVyLzADw&scisig=AAGBfm3ujsjGFPuzxw3-1Zs3syl-9X7gpw&nossl=1&oi=scholarr)              
 
 - [How to Do Things with Words Lecture 12 책 링크](https://books.google.co.kr/books?id=XnRkQSTUpmgC&pg=PA83&hl=ko&source=gbs_toc_r&cad=4#v=onepage&q&f=false)   
-- 비공개 부분 발제
-- [강의 링크](https://www.youtube.com/watch?v=FMZ6yrVUUqo)
+** 비공개 부분 발제
+- [강의 링크](https://www.youtube.com/watch?v=FMZ6yrVUUqo)     
 
-- [발제지 링크](https://drive.google.com/drive/folders/1uRgFijLcfrTK49EzJSQaUGhSHfOhn8ix?usp=sharing)
+- [발제지 링크](https://drive.google.com/drive/folders/1uRgFijLcfrTK49EzJSQaUGhSHfOhn8ix?usp=sharing)            
 
 
 
