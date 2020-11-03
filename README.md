@@ -63,7 +63,8 @@ Marie-Catherine de MARNEFFE, Mandy SIMONS, Judith TONHAUSER
 
 - [발제지 링크](https://drive.google.com/drive/folders/1uRgFijLcfrTK49EzJSQaUGhSHfOhn8ix?usp=sharing)            
 
-
+- 한국어 적용 구영은 외 2018, 한국어 수업 대화의 화행 분석과 화행 자동분류를 위한 언어학적 기반연구
+  http://kiise.or.kr/e_journal/2018/8/JOK/pdf/08.pdf
 
 ### 4회차 (지윤 pick)
 
